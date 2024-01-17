@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Laravel project is a simple People Management application that utilizes CRUD (Create, Read, Update, Delete) operations and follows RESTful principles. The application is designed to handle and organize information about individuals, offering a user-friendly interface for managing people's details.
+This Laravel project is a simple People Management application that utilizes CRUD operations and follows RESTful principles. The application is designed to handle and organize information about individuals, interface for managing people's details.
 
 ## Key Features
 
